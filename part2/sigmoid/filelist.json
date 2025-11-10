@@ -1,0 +1,12 @@
+{
+    "top": "sigmoid",
+    "_comment": "You may add other modules that you need",
+    "files":
+    ["part2/sigmoid/sigmoid.sv",
+    "part2/ram_1r1w_async/ram_1r1w_async.sv",
+    "part2/hex2ssd/hex2ssd.sv",
+    "provided/dff.sv",
+    "provided/inv.sv",
+    "provided/joystick.sv"
+    ]
+}

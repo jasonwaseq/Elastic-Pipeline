@@ -1,0 +1,13 @@
+ {
+    "top": "fifo_1r1w",
+    "files":
+     ["part3/fifo_1r1w/fifo_1r1w.sv",
+      "provided/pll.sv",
+      "provided/sipo.sv",
+      "provided/piso.sv",
+      "provided/dff.sv",
+      "provided/inv.sv",
+      "provided/axis_i2s2_synth.v",
+      "part2/ram_1r1w_async/ram_1r1w_async.sv"
+    ]
+}

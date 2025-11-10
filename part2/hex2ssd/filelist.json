@@ -1,0 +1,8 @@
+{
+    "top": "hex2ssd",
+    "_comment": "You may add other modules that you need",
+    "files":
+    ["part2/hex2ssd/hex2ssd.sv",
+    "part2/ram_1r1w_async/ram_1r1w_async.sv"
+    ]
+}
