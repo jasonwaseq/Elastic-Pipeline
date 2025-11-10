@@ -1,3 +1,3 @@
-# Lab Assignment 3
-Click `Code` > `Codespaces` > `Create codespace on main` to start coding!
+# Elastic Pipeline
 
+In this lab, I designed and implemented both inelastic and elastic pipeline stages in SystemVerilog, gaining hands-on experience with dataflow control and ready-valid interfaces. I first built an inelastic pipeline stage that stored data based on an enable signal and implemented proper synchronous reset behavior. I then extended this design into a Mealy-style elastic pipeline stage with data gating and ready-valid signaling to improve throughput. Finally, I integrated these concepts to create a 1-read/1-write FIFO using a previously developed synchronous memory module, ensuring proper handshaking between producer and consumer interfaces. I demonstrated the complete FIFO system on an FPGA by connecting audio input and output through a PMOD I2S interface, verifying that the FIFO correctly buffered audio data while preserving signal integrity.
